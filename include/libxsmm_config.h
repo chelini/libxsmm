@@ -9,7 +9,7 @@
 #endif
 
 #if !defined(LIBXSMM_DEFAULT_CONFIG) && (!defined(LIBXSMM_SOURCE_H) || defined(LIBXSMM_CONFIGURED))
-#  include "libxsmm_version.h"
+#  //include "libxsmm_version.h"
 
 
 #else
